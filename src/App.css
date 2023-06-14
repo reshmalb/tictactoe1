@@ -7,10 +7,22 @@
   width: 75px;
   border: 2px solid black;
   padding:0 !important;
+  
 }
 .gameboard-square{
   height:100%;
   width:100%;
   font-size: 80px;
   color: #fff;
+  color: white;
+}
+.player_X{
+  background-color: blue;
+}
+.player_O{
+  background-color: rgb(0, 255, 55);
+}
+p{
+  font-size: 30px;
+  font-weight: 3px;
 }
